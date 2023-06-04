@@ -1,7 +1,7 @@
 '''
-Created on May 1, 2020
+Created on May 1, 2021
 
-@author: Sumit
+@author: Rituraj
 '''
 
 class ball:
