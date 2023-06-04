@@ -1,7 +1,7 @@
 '''
-Created on 7 Sep, 2020
+Created on 7 Sep, 2021
 
-@author: sumit
+@author: Rituraj
 '''
 
 import pygame as p
